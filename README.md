@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lewis, an <a href="https://www.linkedin.com/in/lewis-garnett-dev/">IT Professional</a>😎💻</h1>
+<h1>Hi, I'm Lewis, an <a href="https://www.linkedin.com/in/lewis-garnett-dev/">IT Professional,Programmer</a>😎💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
