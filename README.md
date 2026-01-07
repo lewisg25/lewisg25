@@ -2,7 +2,7 @@
 
 I'm a Front-End Developer passionate about building interactive, user-focused web apps.
 
-💻 Currently improving my skills in React, TypeScript, and UI performance optimization.  
+💻 Currently improving my skills in React. 
 🚀 Personal Project: [route-hive](https://github.com/lewisg25/route-hive.git) — Route Optimization Dashboard for field technicians.  
 🌱 Currently learning advanced JS patterns and refactoring techniques.  
 
