@@ -8,7 +8,7 @@ I'm a Full Stack Developer passionate about building interactive, user-focused w
 
 <h3> <a href=" lewis.garnett96@yahoo.com">Email Me📤</a> </h3>
 
-
+<h3> <a href="https://www.linkedin.com/in/lewis-garnett-dev/">Find Me📤</a> </h3>
 
 
 
