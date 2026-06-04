@@ -6,8 +6,9 @@ I'm a Full Stack Developer passionate about building interactive, user-focused w
  Personal Project: Is in the making.  
  Currently learning advanced JS patterns and refactoring techniques.  
 
-<h3> <a href=" lewis.garnett96@yahoo.com">Email Me📤</a> </h3>
-
+<h3>
+  <a href="mailto:lewis.garnett96@yahoo.com">Email Me 📤</a>
+</h3>
 <h3> <a href="https://www.linkedin.com/in/lewis-garnett-dev/">Find Me
 </a> </h3>
 
