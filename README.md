@@ -1,5 +1,5 @@
 # Hi, I'm Lewis 👋
-I am based in Pennsylvania apart of an amazing cohert from CodeSquad✊🏽
+I am based in Pennsylvania apart of an amazing team from CodeSquad✊🏽
 I'm a Full Stack Developer passionate about building interactive, user-focused web apps.
 
  my skills in React, Javascript,Express JS/Node JS.
