@@ -1,11 +1,8 @@
 # Hi, I'm Lewis 👋
 I am based in Pennsylvania apart of an amazing team from CodeSquad✊🏽
-I'm a Full Stack Developer passionate about building interactive, user-focused web apps.
+I'm a Software Developer specializing in Frontend passionate about building interactive, user-focused web apps.
 
- my skills in React, Javascript,Express JS/Node JS.
- Personal Project: Is in the making.  
- Currently learning advanced JS patterns and refactoring techniques.  
-
+ my skills in Typescript, React, Javascript,Express JS/Node JS.  
 <h3>
   <a href="mailto:lewis.garnett96@yahoo.com">Email Me 📤</a>
 </h3>
